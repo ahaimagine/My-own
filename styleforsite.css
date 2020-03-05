@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: rgb(183, 127, 235);
+    background-color: black ;
+}
+.th{
+    background-color: palevioletred;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: darkgoldenrod;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: yellow;
+
+}
+.text{
+    background-color: rgb(109, 81, 109);
+    color: wheat;
+}
+.table{
+    text-align: center ;
+    background-color: thistle;
+    color: black;
+}
+.secondrow{
+    text-align: center;
+    color: black;
+    background-color: rgb(183, 127, 235);
+}
+label{
+    font-weight: bold;
+    color: seashell;
+    background-color: slategrey;
+    
+}
+.s{
+    background-image: url(https://i.pinimg.com/736x/57/98/9c/57989c117568712413c8f25f3d055921.jpg );
+    }
+    form{
+        background-color: thistle;
+        align-self: center;
+    }
+    .cr{
+        text-align: center;
+    }
